@@ -1,0 +1,2 @@
+# Description
+Create a local repo, create some files like `index.html` and `index.css`. Make you do changes and commit, then do another changes and commit the second time, the try to go back to the first commit by using command.

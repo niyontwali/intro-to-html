@@ -22,3 +22,14 @@
 2. `git branch name_of_branch`: create a branch called `name_of_branch`
 3. `git checkout name_of_branch`: Will switch to that branch with name (name_of_branch)
 4. `git merge name_of_the_other_branch`: Will pull changes in the other branch and bring them to your current branch
+
+
+## HMTL Elements (Tags)
+### Types of Tags
+- opening tag e.g <head>
+- closing tag e.g </head>
+
+**NOTE**: Self closing tags: These ones don't have opening and closing tag but just written like this: `<tag />
+
+### HTML Headings
+We have from h1 to h6

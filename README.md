@@ -32,4 +32,13 @@
 **NOTE**: Self closing tags: These ones don't have opening and closing tag but just written like this: `<tag />
 
 ### HTML Headings
-We have from h1 to h6
+We have from 
+
+### Attributes
+1. src : source, which specifies the path of image
+2. alt: alternative text to the image
+3. id: identity of an element and can be used for css or referencing
+4. styles: used for internal inline styling
+5. target: used to provide behavior to your hyperlink opening
+6. href: for reference
+7. width and height: for sizes
